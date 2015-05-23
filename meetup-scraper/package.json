@@ -1,0 +1,17 @@
+{
+  "name": "meetup-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape-find.js",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "elastical": "0.0.11",
+    "request": "^2.23.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
